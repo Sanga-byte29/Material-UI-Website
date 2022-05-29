@@ -1,2 +1,2 @@
 # Material-UI-Website
-A functional website made with only material UI and ReactJS
+A Responsive Website made with MUI and React
